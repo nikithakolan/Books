@@ -20,3 +20,14 @@
 .App-link {
   color: #09d3ac;
 }
+ul{
+  list-style-type: lower-roman;
+}
+.header{
+  text-align:center;
+  background-color: wheat
+}
+.button{
+  border-radius: 50%;
+ background-color:green;
+}
